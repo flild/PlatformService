@@ -1,2 +1,4 @@
-/bin
-/obj
+PlatformService/bin
+PlatformService/obj
+CommandsService/bin
+CommandsService/obj

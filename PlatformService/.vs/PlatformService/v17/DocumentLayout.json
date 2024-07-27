@@ -3,8 +3,18 @@
   "WorkspaceRootPath": "V:\\CDotNetSql\\Projects\\Flaska\\PlatformService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70F2E7FC-6E69-4E5E-9764-391BEB7F1D5C}|..\\CommandsService\\CommandsService.csproj|v:\\cdotnetsql\\projects\\flaska\\commandsservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6065787B-098D-4E8E-8E7A-A24F50F6E627}|PlatformService.csproj|v:\\cdotnetsql\\projects\\flaska\\platformservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6065787B-098D-4E8E-8E7A-A24F50F6E627}|PlatformService.csproj|solutionrelative:controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6065787B-098D-4E8E-8E7A-A24F50F6E627}|PlatformService.csproj|v:\\cdotnetsql\\projects\\flaska\\platformservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6065787B-098D-4E8E-8E7A-A24F50F6E627}|PlatformService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F2E7FC-6E69-4E5E-9764-391BEB7F1D5C}|..\\CommandsService\\CommandsService.csproj|v:\\cdotnetsql\\projects\\flaska\\commandsservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +38,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PlatformsController.cs",
+              "DocumentMoniker": "V:\\CDotNetSql\\Projects\\Flaska\\CommandsService\\Controllers\\PlatformsController.cs",
+              "RelativeDocumentMoniker": "..\\CommandsService\\Controllers\\PlatformsController.cs",
+              "ToolTip": "V:\\CDotNetSql\\Projects\\Flaska\\CommandsService\\Controllers\\PlatformsController.cs",
+              "RelativeToolTip": "..\\CommandsService\\Controllers\\PlatformsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:41:33.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "V:\\CDotNetSql\\Projects\\Flaska\\PlatformService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "V:\\CDotNetSql\\Projects\\Flaska\\PlatformService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T17:33:18.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "V:\\CDotNetSql\\Projects\\Flaska\\CommandsService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\CommandsService\\Properties\\launchSettings.json",
+              "ToolTip": "V:\\CDotNetSql\\Projects\\Flaska\\CommandsService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\CommandsService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T17:33:14.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatformsController.cs",
               "DocumentMoniker": "V:\\CDotNetSql\\Projects\\Flaska\\PlatformService\\Controllers\\PlatformsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PlatformsController.cs",
               "ToolTip": "V:\\CDotNetSql\\Projects\\Flaska\\PlatformService\\Controllers\\PlatformsController.cs",
               "RelativeToolTip": "Controllers\\PlatformsController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T16:53:51.597Z",
               "EditorCaption": ""
