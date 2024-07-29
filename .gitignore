@@ -18,3 +18,5 @@ mono_crash.*
 
 CommandsService/.vs/
 PlatformService/.vs/
+/CommandsService/obj/*
+/PlatformService/.vs/PlatformService/v17/DocumentLayout.json
