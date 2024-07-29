@@ -1,7 +1,7 @@
-PlatformService/bin
-PlatformService/obj
-CommandsService/bin
-CommandsService/obj
+PlatformService/bin/*
+PlatformService/obj/*
+CommandsService/bin/
+CommandsService/obj/
 
 # User-specific files
 *.rsuser
@@ -16,7 +16,6 @@ CommandsService/obj
 # Mono auto generated files
 mono_crash.*
 
-CommandsService/.vs/
-PlatformService/.vs/
+/CommandsService/.vs/*
 /CommandsService/obj/*
-/PlatformService/.vs/PlatformService/v17/DocumentLayout.json
+/PlatformService/.vs/*
