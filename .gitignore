@@ -18,5 +18,5 @@ mono_crash.*
 
 /CommandsService/.vs/*
 /CommandsService/obj/*
-/PlatformService/.vs/*
+/PlatformService/.vs/
 /PlatformService/.vs/ProjectEvaluation/platformservice.projects.v7.bin
